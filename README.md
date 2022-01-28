@@ -16,3 +16,7 @@ Data set from February 24th 2020 - January 23rd 2022
   - 4b. Total death count per continent and economic class
   - 4c. Percentage of population infected per month for each country
   - 4d. World map widget with current percentage of population infected
+
+Final product:
+
+https://public.tableau.com/app/profile/daniel.garcia2005/viz/COVID19dashboardproject/Dashboard1?publish=yes
