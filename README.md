@@ -1,7 +1,9 @@
 # COVID-19 PortfolioProject
 
-- Used dataset: https://ourworldindata.org/covid-deaths 
-  - data set from February 24th 2020 - January 23rd 2022
+Used dataset: https://ourworldindata.org/covid-deaths 
+Data set from February 24th 2020 - January 23rd 2022
+
+
 - 1. First collected and cleaned up data in Excel
 - 2. Created database in SQL with two excel files: one for COVID deaths and one for COVID vaccinations. Theses two excel files would to be converted into two tables in the database
 - 3. Created four queries to be used in Tableau:
