@@ -1,4 +1,4 @@
-# COVID-19 PortfolioProject
+# COVID-19 Tableau Project
 
 Used dataset: https://ourworldindata.org/covid-deaths 
 Data set from February 24th 2020 - January 23rd 2022
